@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1335475480/photo/sheltered-outdoor-garden-patio-oasis-for-afternoon-backyard-relaxation-and-glass-of-wine-on.jpg?s=612x612&w=0&k=20&c=3PqZLdUjAJc9gRTycn2aM4oLIyCmdQcg4SzVrSiTATQ=);
+}
+
+
+.hero{
+    background-color: rgb(71, 71, 71);
+    width: 70%;
+    height: 30px;
+    margin-left: 160px;
+     border-radius: 5px;
+     margin-bottom: 5px;
+}
+.hero2{
+     background-color: rgb(73, 73, 73);
+    width: 20px;
+    height: 20px;
+     margin-left: 59px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.container{
+    background-color: rgb(172, 170, 170);
+    padding: 3px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+
+}
+     
+   
+   
+
+
+
+
+
+
